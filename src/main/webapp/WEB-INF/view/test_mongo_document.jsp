@@ -6,7 +6,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>MONGODB TEST</title>
+		<title>mongodb git test</title>
 	</head> 
 	<body>
 		<h3>MONGODB TEST</h3>
